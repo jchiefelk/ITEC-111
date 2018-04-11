@@ -1,1 +1,1 @@
-#your first readme
+I picked OclHashCat as my hacking tool research piece. It is the most advanced password cracking tool. It is an open source tool licensed under MIT. It seems to be a very popular tool frequented by those who love to crack passwords.
