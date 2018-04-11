@@ -1,1 +1,3 @@
-#your first readme
+For my choice of hacking tool, I looked into the Burp Suite Scanner. There are two options of download: Professional (350$ a year per person), or Community (free). There's a lot of things this software can seemingly do depending on which option you pick, whether it's covering vulnerabilities from SQL injections to XXS, various scan speeds, passive scanning, or performing interactive application security testing. 
+
+Burp also provides very clear and detailed information about the found vulnerabilities in scans, which you can also export HTML reports as well. These are just a glimpse of what Burp Suite has to offer amongst a treasure trove of other actions. Looking at all the options one can do with it, it's like a kid in a candy store! https://portswigger.net/burp/
